@@ -1,1 +1,2 @@
-class AddDayAndGenreAndSeasonTo
+class AddDayAndGenreAndSeasonToShows
+end
